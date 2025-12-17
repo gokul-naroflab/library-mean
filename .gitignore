@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+backend/.env
+
+
+# Build Outputs
+dist/
+buuild/
+
+#vscode
+.vscode/
